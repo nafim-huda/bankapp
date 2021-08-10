@@ -1,4 +1,4 @@
-# bankapp
+# REST Banking Application
 # Application Description: 
 - This is a REST app designed to perform CRUD operations associated with a typical banking application.
 - Tech Stack: Spring Boot, Spring JPA, Apache Derby, Java, SQL
